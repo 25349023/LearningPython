@@ -1,3 +1,3 @@
 # LearningPython
 
-These are my data when learning Python
+These are my data when learning Python.
